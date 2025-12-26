@@ -1,0 +1,3 @@
+Molecular weight 54065.77
+Instability index is 58.87
+Aliphatic index 80.92
