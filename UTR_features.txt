@@ -1,0 +1,6 @@
+5′ Cap (m⁷Gppp): Modified guanine that initiates translation and marks mRNA as “self.”
+5′ UTR: Non-coding region that helps regulate translation efficiency.
+Coding Sequence (ORF): Protein-coding region from AUG start to stop codon.
+3′ UTR: Controls mRNA stability, localization, and translation rate.
+Poly(A) Tail: Adenine chain that increases stability and translation efficiency.
+Overall Role: Ensures proper mRNA protection, transport, and protein synthesis.
