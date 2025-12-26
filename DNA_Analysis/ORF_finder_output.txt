@@ -1,0 +1,6 @@
+Total ORFs found 12.
+ORF selected ORF8
+start 2108
+stop 573
+length 1536
+I chose this ORF because it is the longest one and starting from ETG 
