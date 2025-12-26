@@ -1,0 +1,5 @@
+This STRING network reveals a tightly coordinated interactome of PKS and NRPS mega-enzymes in Bacillus subtilis, forming an organelle-like biosynthetic complex.
+These interactions enable precise assembly-line synthesis of complex secondary metabolites.
+Physical clustering improves metabolic efficiency by retaining unstable intermediates.
+The network underpins antibiotic production crucial for bacterial competitiveness.
+Mapping it is key for bioengineering and reprogramming these systems for drug discovery.
